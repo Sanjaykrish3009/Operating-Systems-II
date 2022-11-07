@@ -1,0 +1,21 @@
+1th Customer access request at 17:13:56:311
+1th Customer given access at 17:13:56:312
+2th Customer access request at 17:13:56:312
+2th Customer given access at 17:13:56:313
+3th Customer access request at 17:13:56:313
+3th Customer given access at 17:13:56:313
+4th Customer access request at 17:13:56:313
+4th Customer given access at 17:13:56:314
+5th Customer access request at 17:13:56:314
+5th Customer given access at 17:13:56:314
+6th Customer access request at 17:13:56:314
+6th Customer given access at 17:13:56:314
+8th Customer access request at 17:13:56:317
+8th Customer given access at 17:13:56:317
+7th Customer access request at 17:13:56:317
+7th Customer given access at 17:13:56:317
+9th Customer access request at 17:13:56:318
+9th Customer given access at 17:13:56:318
+10th Customer access request at 17:13:56:318
+10th Customer given access at 17:13:56:318
+Average wait time for each customer is 22.1 micro seconds
